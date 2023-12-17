@@ -1,0 +1,9 @@
+{
+	"name": "DataIngestion-DataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61f226de-6f69-4816-a1d1-23168f288603",
+		"tenantId": "615ec457-8c9f-4776-a4bc-1b90a2ab05ff"
+	}
+}
