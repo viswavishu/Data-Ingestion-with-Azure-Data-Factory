@@ -19,6 +19,9 @@
 		},
 		"AzureDataLakeStorage2_properties_typeProperties_url": {
 			"value": "https://gen2storageaccc.dfs.core.windows.net/"
+		},
+		"trigger1_properties_typeProperties_scope": {
+			"value": "/subscriptions/6852d822-6c9f-4d2b-8325-639e18c4707e/resourceGroups/Data_Ingestion_with_Azure_Data_Factory/providers/Microsoft.Storage/storageAccounts/ingestblobstorage"
 		}
 	}
 }
